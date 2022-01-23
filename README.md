@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xenr4thCode
-- 👀 I’m interested in Cybersecurity And Coding
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Full-Stack Web Development
 
 <!---
